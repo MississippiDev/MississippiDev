@@ -1,12 +1,12 @@
 ## Hi there, Welcome to MississippiDev World 👋
 
-<img align="left" height="201" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZxdzdoajRjanF2c2p5cDI4Y2s3NHVhNzhraHdncmRhN2Jub2ZjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qF2y0VXvbJV9V3ggC5/giphy.gif"  />
+<img align="left" height="139" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZxdzdoajRjanF2c2p5cDI4Y2s3NHVhNzhraHdncmRhN2Jub2ZjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qF2y0VXvbJV9V3ggC5/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MississippiDev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MississippiDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MississippiDev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="136" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MississippiDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="136" alt="streak graph"  />
 </div>
 
 ###
